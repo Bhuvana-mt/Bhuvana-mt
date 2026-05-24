@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bhuvana M T</h1>
-<h3 align="center">AI & Data Science Engineer | Python | SQL | Power BI | Machine Learning | Data Analytics Enthusiast
-</h3>
 
 ## 🚀 About Me
 I am an **AI & Data Science Engineering student** passionate about **Data Analytics, Machine Learning, and Generative AI**. I enjoy building real-world projects and transforming raw data into meaningful insights using **Python, SQL, Power BI, Tableau, and Data Visualization**. Currently, I am strengthening my technical expertise through internships, hands-on projects, and learning **FastAPI & Advanced Python**, with a strong goal of building a career as a **Data Analyst / Data Scientist**.
